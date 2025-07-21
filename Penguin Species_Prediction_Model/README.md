@@ -18,12 +18,6 @@ The model is trained using the [Palmer Penguins dataset](https://github.com/alli
 - Preprocessing includes:
   - Handling missing values
   - Encoding categorical variables
-  - Feature scaling (if applicable)
-- Model serialized using `joblib` for easy reuse
+  - Model training and deployment
 
 ## 🚀 Getting Started
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/penguin-species-predictor.git
-   cd penguin-species-predictor
